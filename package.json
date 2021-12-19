@@ -12,5 +12,13 @@
         "meng sokun",
         "meng",
         "sokun"
-    ]
+    ],
+    "license": "UNLICENSED",
+    "main": "index.js",
+    "repository": "Mengsokun19/sokun",
+    "author": {
+        "name": "Veng Mengsokun",
+        "email": "mengsokun19@gmail.com",
+        "url": "https://www.google.com"
+    }
 }
