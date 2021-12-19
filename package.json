@@ -1,0 +1,7 @@
+{
+    "name": "sokun",
+    "version": "1.0.0",
+    "bin": {
+        "sokun": "index.js"
+    }
+}
