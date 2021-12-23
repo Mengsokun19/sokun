@@ -6,7 +6,11 @@
         "sokun": "index.js"
     },
     "dependencies": {
-        "cli-welcome": "^2.2.2"
+        "chalk": "^5.0.0",
+        "cli-check-node": "^1.3.4",
+        "cli-welcome": "^2.2.2",
+        "log-symbols": "^5.1.0",
+        "my-cli-alerts": "^1.0.0"
     },
     "keywords": [
         "meng sokun",
